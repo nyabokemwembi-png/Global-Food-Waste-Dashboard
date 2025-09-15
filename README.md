@@ -2,8 +2,6 @@
 
 An interactive Microsoft Excel dashboard that visualizes global food waste trends by country, year, and category.
 
-![Dashboard Screenshot](Global Food Waste Image 01.png)
-
 ---
 
 ## 📊 Features
@@ -35,4 +33,4 @@ An interactive Microsoft Excel dashboard that visualizes global food waste trend
 ---
 
 ## 🧑‍💻 About
-Created by [Cynthia Mwembi Nyaboke](www.linkedin.com/in/cynthia-mwembi-40093825b) as part of a data visualization project.
+Created by Cynthia Mwembi Nyaboke (www.linkedin.com/in/cynthia-mwembi-40093825b) as part of a data visualization project.
